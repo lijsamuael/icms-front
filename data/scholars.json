@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Sheikh Abdullah Hakim",
+    "specialty": "Quranic Studies & Tafsir",
+    "location": "Madinah, Saudi Arabia"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Aisha Rahman",
+    "specialty": "Islamic Jurisprudence (Fiqh)",
+    "location": "Cairo, Egypt"
+  },
+  {
+    "id": 3,
+    "name": "Imam Yusuf Ali",
+    "specialty": "Hadith & Sunnah",
+    "location": "Istanbul, Turkey"
+  },
+  {
+    "id": 4,
+    "name": "Sheikh Muhammad Saleh",
+    "specialty": "Islamic History & Civilization",
+    "location": "Kuala Lumpur, Malaysia"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Fatima Zahra",
+    "specialty": "Islamic Ethics & Spirituality",
+    "location": "London, UK"
+  },
+  {
+    "id": 6,
+    "name": "Imam Omar Suleiman",
+    "specialty": "Contemporary Islamic Issues",
+    "location": "Dallas, USA"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "scholarId": 1,
+    "topicId": 1,
+    "title": "Fundamentals of Tajweed",
+    "description": "Learn the basic rules of Quranic recitation with proper pronunciation.",
+    "duration": 60,
+    "date": "Every Saturday",
+    "location": "Main Prayer Hall",
+    "attendees": 25,
+    "additionalInfo": "Suitable for beginners. Please bring your own Quran."
+  },
+  {
+    "id": 2,
+    "scholarId": 1,
+    "topicId": 2,
+    "title": "Tafsir of Surah Al-Baqarah",
+    "description": "Detailed explanation of the meanings and lessons from Surah Al-Baqarah.",
+    "duration": 90,
+    "date": "Every Sunday",
+    "location": "Lecture Hall A",
+    "attendees": 40,
+    "additionalInfo": "Intermediate level. Previous knowledge of Arabic recommended."
+  },
+  {
+    "id": 3,
+    "scholarId": 2,
+    "topicId": 3,
+    "title": "Fiqh of Worship",
+    "description": "Comprehensive study of the rulings related to prayer, fasting, and other acts of worship.",
+    "duration": 75,
+    "date": "Every Monday",
+    "location": "Classroom 3",
+    "attendees": 30,
+    "additionalInfo": "Open to all levels. Q&A session included."
+  },
+  {
+    "id": 4,
+    "scholarId": 2,
+    "topicId": 3,
+    "title": "Contemporary Fiqh Issues",
+    "description": "Addressing modern challenges and their solutions from an Islamic legal perspective.",
+    "duration": 120,
+    "date": "Every Wednesday",
+    "location": "Conference Room",
+    "attendees": 35,
+    "additionalInfo": "Advanced level. Prior knowledge of Fiqh principles required."
+  },
+  {
+    "id": 5,
+    "scholarId": 3,
+    "topicId": 4,
+    "title": "40 Hadith Nawawi",
+    "description": "Study of Imam Nawawi's collection of 40 fundamental hadith.",
+    "duration": 60,
+    "date": "Every Thursday",
+    "location": "Lecture Hall B",
+    "attendees": 45,
+    "additionalInfo": "All levels welcome. Translation provided."
+  },
+  {
+    "id": 6,
+    "scholarId": 3,
+    "topicId": 7,
+    "title": "Life of the Prophet in Makkah",
+    "description": "Detailed study of the Prophet's life before migration to Madinah.",
+    "duration": 90,
+    "date": "Every Friday",
+    "location": "Main Hall",
+    "attendees": 60,
+    "additionalInfo": "Family-friendly. Children above 10 years welcome."
+  },
+  {
+    "id": 7,
+    "scholarId": 4,
+    "topicId": 5,
+    "title": "Golden Age of Islam",
+    "description": "Exploring the scientific and cultural achievements of Muslims during the Islamic Golden Age.",
+    "duration": 120,
+    "date": "Every Tuesday",
+    "location": "Auditorium",
+    "attendees": 50,
+    "additionalInfo": "Includes multimedia presentations and historical artifacts."
+  },
+  {
+    "id": 8,
+    "scholarId": 5,
+    "topicId": 8,
+    "title": "Purification of the Heart",
+    "description": "Spiritual development and overcoming spiritual diseases based on Imam Al-Ghazali's teachings.",
+    "duration": 90,
+    "date": "Every Saturday",
+    "location": "Quiet Room",
+    "attendees": 25,
+    "additionalInfo": "Reflective environment. Journaling materials provided."
+  },
+  {
+    "id": 9,
+    "scholarId": 6,
+    "topicId": 6,
+    "title": "Fundamentals of Islamic Belief",
+    "description": "Understanding the six articles of faith in depth.",
+    "duration": 75,
+    "date": "Every Sunday",
+    "location": "Classroom 1",
+    "attendees": 35,
+    "additionalInfo": "Beginner-friendly. Handouts will be provided."
+  },
+  {
+    "id": 10,
+    "scholarId": 6,
+    "topicId": 8,
+    "title": "Islam in the Modern World",
+    "description": "Navigating contemporary challenges while maintaining Islamic identity.",
+    "duration": 120,
+    "date": "Every Wednesday",
+    "location": "Community Center",
+    "attendees": 70,
+    "additionalInfo": "Interactive workshop format. Pre-registration required."
+  }
+]
